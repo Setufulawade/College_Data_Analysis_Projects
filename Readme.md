@@ -1,6 +1,6 @@
-**Overview**
+## Overview
 
-#Practical no. 1
+## Practical no. 1
 
 This project demonstrates various operations and manipulations with Pandas DataFrames. It includes data cleaning, filtering, merging, and various transformations. The project is structured into several parts, each showcasing different functionalities of Pandas.
 
@@ -17,7 +17,7 @@ This project demonstrates various operations and manipulations with Pandas DataF
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Practical no. 2
+## Practical no. 2
 
 This project demonstrates various data manipulation techniques using Pandas, including data cleaning, transformation, and merging. It also includes an example of using Scikit-learn for encoding categorical variables.
 
@@ -35,7 +35,7 @@ This project demonstrates various data manipulation techniques using Pandas, inc
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Practical no. 3
+## Practical no. 3
 
 This project involves analyzing the Boston Housing Dataset using various statistical methods. The dataset contains information collected by the U.S. Census Service concerning housing in the area of Boston, Massachusetts.
 
@@ -58,7 +58,7 @@ This project involves analyzing the Boston Housing Dataset using various statist
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Practical no. 4
+## Practical no. 4
 
 This project involves exploring and analyzing the Boston Housing dataset using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. The main goal is to build a linear regression model to predict housing prices.
 
@@ -80,7 +80,7 @@ This project involves exploring and analyzing the Boston Housing dataset using P
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Practical no. 5
+## Practical no. 5
 
 This project involves exploring and analyzing the Social Network Ads dataset using Python libraries such as Pandas, NumPy, Matplotlib, Scikit-learn, and others. The main goal is to build a logistic regression model to predict whether a user will purchase a product based on their age and estimated salary.
 
@@ -104,7 +104,7 @@ This project involves exploring and analyzing the Social Network Ads dataset usi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Practical no. 6
+## Practical no. 6
 
 This project involves exploring and analyzing the Iris dataset using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and others. The main goal is to visualize and understand the characteristics of the Iris dataset.
 
