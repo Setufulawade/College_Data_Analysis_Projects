@@ -74,3 +74,22 @@ This project involves exploring and analyzing the Boston Housing dataset using P
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Practical no. 5**
+This project involves exploring and analyzing the Social Network Ads dataset using Python libraries such as Pandas, NumPy, Matplotlib, Scikit-learn, and others. The main goal is to build a logistic regression model to predict whether a user will purchase a product based on their age and estimated salary.
+
+## Methods
+
+- Load the dataset
+- Display basic statistics
+- Check for missing values
+- Preprocess data (feature scaling)
+- Split the dataset into training and testing sets
+- Train a logistic regression model
+- Make predictions on the test set
+- Evaluate the model using a confusion matrix
+
+## Prerequisites
+
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
