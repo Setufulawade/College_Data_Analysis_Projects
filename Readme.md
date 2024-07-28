@@ -6,7 +6,7 @@ This project demonstrates various operations and manipulations with Pandas DataF
 
 **Table of Contents**
 
-**Prerequisites**
+**Methods**
 - Data Cleaning
 - Data Transformation
 - Data Merging
@@ -14,4 +14,18 @@ This project demonstrates various operations and manipulations with Pandas DataF
 **Prerequisites**
 - Python 3.x
 - Pandas
+
+**Practical no. 2**
+
+This project demonstrates various data manipulation techniques using Pandas, including data cleaning, transformation, and merging. It also includes an example of using Scikit-learn for encoding categorical variables.
+
+**Methods**
+-Loading Data
+-Handling Missing Values
+-Encoding Categorical Variables
+
+**Prerequisites**
+- Python 3.x
+- Pandas
+- Scikit-learn
 
