@@ -53,4 +53,24 @@ This project involves analyzing the Boston Housing Dataset using various statist
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Practical no. 3**
+**Practical no. 4**
+
+This project involves exploring and analyzing the Boston Housing dataset using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. The main goal is to build a linear regression model to predict housing prices.
+
+**Methods**
+- Load the dataset
+- Display basic statistics
+- Check for missing values
+- Visualize relationships between features and the target variable
+- Correlation heatmap
+
+**Prerequisites**
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Practical no. 5**
